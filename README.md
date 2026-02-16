@@ -124,7 +124,7 @@ pip install duckdb
    ```
 
 3. **Run the analysis queries:**
-   - Execute the queries in order as provided in the  [scripts.sql](scripts.sql)
+   - Execute the queries in order as provided in the  [script.sql](script.sql)
    - Each query builds on the transformed `games_part` table
 
 
