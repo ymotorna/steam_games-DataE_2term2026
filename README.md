@@ -1,4 +1,4 @@
-# Student Assignment: Working with Nested JSON Data\
+# Student Assignment: Working with Nested JSON Data
 ## Steam Games Dataset Analysis
 
 An SQL-based analysis of Steam games using DuckDB, exploring game characteristics, user preferences, and platform distributions.
